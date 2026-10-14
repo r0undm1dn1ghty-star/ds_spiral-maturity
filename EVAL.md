@@ -31,7 +31,7 @@
 ## Проверка
 
 ```bash
-git clone https://github.com/r0undm1dn1ghty-star/spiral-maturity
+git clone https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity
 cd ds_spiral-maturity
 python integrations/kit/skillkit.py --json \
   --input '{"процессы":"автономные агенты и оркестрация","метрики":"замеряем","ценности":"влияние на отрасль"}'

@@ -16,7 +16,7 @@
 - [ChatGPT Integration](./integrations/chatgpt/README.md)
 
 ## Links
-- [GitHub Repository](https://github.com/r0undm1dn1ghty-star/spiral-maturity)
+- [GitHub Repository](https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity)
 - [Discovery System](https://discovery-system.ru)
 - [Telegram](https://t.me/discoverysystem)
 - [Author: Viktor Zaitsev](https://github.com/r0undm1dn1ghty-star)

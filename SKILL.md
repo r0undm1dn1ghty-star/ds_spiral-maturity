@@ -187,7 +187,7 @@ license: MIT
 
 ## Связанные
 
-- Репозиторий: [github.com/r0undm1dn1ghty-star/ds_spiral-maturity](https://github.com/r0undm1dn1ghty-star/spiral-maturity) (MIT).
+- Репозиторий: [github.com/r0undm1dn1ghty-star/ds_spiral-maturity](https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity) (MIT).
 - Полная методика: `docs/methodology-ru.md` в репозитории.
 - Полевая карточка: `templates/field-card.md`.
 - История версий: `CHANGELOG.md`.

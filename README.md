@@ -14,7 +14,7 @@
 
 ```bash
 # вариант 1 — клон репо целиком
-git clone https://github.com/r0undm1dn1ghty-star/spiral-maturity.git && cp -r spiral-maturity/.claude/skills/* ~/.claude/skills/ 2>/dev/null || cp spiral-maturity/SKILL.md ~/.claude/skills/ds_spiral-maturity/SKILL.md
+git clone https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity.git && cp -r spiral-maturity/.claude/skills/* ~/.claude/skills/ 2>/dev/null || cp spiral-maturity/SKILL.md ~/.claude/skills/ds_spiral-maturity/SKILL.md
 
 # вариант 2 — только SKILL.md (у кого он есть в корне)
 cp spiral-maturity/SKILL.md ~/.claude/skills/ds_spiral-maturity/SKILL.md
@@ -187,16 +187,16 @@ MIT. Текст, таблицы и диагностика — авторские
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "@id": "https://github.com/r0undm1dn1ghty-star/spiral-maturity#software",
+  "@id": "https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity#software",
   "name": "Spiral Maturity",
-  "url": "https://github.com/r0undm1dn1ghty-star/spiral-maturity",
+  "url": "https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity",
   "description": "Open-source methodology: company maturity × AI-agent maturity. 7 value levels, agent ladder A0-A4, 16 indicators, 10-minute diagnosis before an AI-agent rollout.",
   "applicationCategory": "BusinessApplication",
   "operatingSystem": "Any (requires AI agent runtime)",
   "softwareVersion": "2.0.0",
   "license": "https://opensource.org/licenses/MIT",
   "isAccessibleForFree": true,
-  "codeRepository": "https://github.com/r0undm1dn1ghty-star/spiral-maturity",
+  "codeRepository": "https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity",
   "author": {
     "@type": "Person",
     "@id": "https://github.com/r0undm1dn1ghty-star#person",
@@ -232,7 +232,7 @@ MIT. Текст, таблицы и диагностика — авторские
     "priceCurrency": "RUB"
   },
   "sameAs": [
-    "https://github.com/r0undm1dn1ghty-star/spiral-maturity",
+    "https://github.com/r0undm1dn1ghty-star/ds_spiral-maturity",
     "https://t.me/discoverysystem"
   ]
 }
