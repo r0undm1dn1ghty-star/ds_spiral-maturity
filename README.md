@@ -1,14 +1,17 @@
 # Spiral Maturity
 
+<div align="center">
+<img src="assets/banner.svg" alt="Discovery System — Spiral Maturity — уровень 1–7 × ступень A0–A4" width="100%">
+</div>
+
 > Spiral Maturity — open-source методика: зрелость организации × агентная зрелость. Один вопрос вместо чек-листа на 50 пунктов, и лестница агентных ступеней A0–A4. MIT.
 
-## Spiral Maturity — зрелость бизнеса для ИИ-агентов
+## Зачем методика
 
-Spiral Maturity — открытая методика для компаний, которые внедряют ИИ-агентов или автоматизацию. Вместо чек-листа на 50 пунктов методика задаёт два вопроса: на каком уровне ценностей компания реально живёт (1–7) и на какой ступени агентной лестницы она стоит (A0–A4). Пересечение даёт формат внедрения, который переживёт пилот.
+МСБ теряет деньги на мёртвых пилотах: по миру 88% проектов не доходят до production, в РФ 90% пилотов не выходят в прод. Spiral Maturity замеряет обе зрелости до трат на внедрение: уровень ценностей, на котором компания реально живёт (1–7), и ступень агентной лестницы (A0–A4). Пересечение даёт формат внедрения, который переживёт пилот, и ровно один следующий шаг внутри своего уровня — а не «лучшие практики», которые умирают на втором слайде. Модель лестницы — публичные данные НИУ ВШЭ + Cloud.ru (106 компаний), плюс авторская ступень A0 «до пилота».
 
-Методика нужна малому и среднему бизнесу, потому что именно МСБ теряет деньги на мёртвых пилотах: по миру 88% проектов не доходят до production, в РФ 90% пилотов не выходят в прод. Spiral Maturity замеряет обе зрелости до трат на внедрение и показывает ровно один следующий шаг внутри своего уровня — а не «лучшие практики», которые умирают на втором слайде.
-
-## What is Spiral Maturity?
+<details>
+<summary>English summary</summary>
 
 Spiral Maturity is an open-source methodology for companies adopting AI agents or automation. Instead of a 50-point checklist, it asks two questions: which value level is the company actually operating at (1–7), and which rung of the AI-agent ladder it stands on (A0–A4). The intersection gives the rollout format that survives the pilot — not a generic "best practice" that dies on the second slide.
 
@@ -16,7 +19,8 @@ The methodology defines 7 levels of organizational maturity, each with its own m
 
 The level and rung are a hypothesis, not a diagnosis: honesty is part of the method. The methodology does not predict or guarantee outcomes — it gives a hypothesis of what to verify. Treatment starts with one step within the company's current level.
 
----
+</details>
+
 
 Методика для тех, кто внедряет ИИ-агентов или автоматизацию. Две шкалы вместо чек-листа на 50 пунктов: уровень ценностей, на котором компания реально живёт (1–7), и ступень агентной лестницы, на которой она стоит (A0–A4). Пересечение даёт формат внедрения, который переживёт пилот.
 
