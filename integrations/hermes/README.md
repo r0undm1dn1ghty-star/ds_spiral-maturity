@@ -4,7 +4,7 @@
 
 1. Скопируйте `templates/` и `docs/` в свою библиотеку:
    ```bash
-   cp -r templates/ docs/ ~/spiral-maturity/
+   cp -r templates/ docs/ ~/ds_spiral-maturity/
    ```
 2. Hermes (и большинство агентных рантаймов) читает Markdown-инструкции. Ссылайтесь на `docs/methodology-ru.md` в промпте.
 

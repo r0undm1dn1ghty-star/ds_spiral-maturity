@@ -1,10 +1,26 @@
-# Spiral Maturity
+# ds_spiral-maturity
+
+**Spiral Maturity**
 
 <div align="center">
 <img src="assets/banner.svg" alt="Discovery System — Spiral Maturity — уровень 1–7 × ступень A0–A4" width="100%">
 </div>
 
 > Spiral Maturity — open-source методика: зрелость организации × агентная зрелость. Один вопрос вместо чек-листа на 50 пунктов, и лестница агентных ступеней A0–A4. MIT.
+
+## Установка и использование
+
+Скилл ставится копированием папки (или `SKILL.md`) в `.claude/skills/` / `.hermes/skills/` — и живёт под именем **`ds_spiral-maturity`**. В чате агенту достаточно сказать: «запусти ds_spiral-maturity для …» — имя уникально и не конфликтует с чужими скиллами.
+
+```bash
+# вариант 1 — клон репо целиком
+git clone https://github.com/r0undm1dn1ghty-star/spiral-maturity.git && cp -r spiral-maturity/.claude/skills/* ~/.claude/skills/ 2>/dev/null || cp spiral-maturity/SKILL.md ~/.claude/skills/ds_spiral-maturity/SKILL.md
+
+# вариант 2 — только SKILL.md (у кого он есть в корне)
+cp spiral-maturity/SKILL.md ~/.claude/skills/ds_spiral-maturity/SKILL.md
+```
+
+Все скиллы Discovery System — с префиксом **`ds_`**: `ds_pnl-check`, `ds_spiral-maturity`, `ds_geo-audit`, `ds_market-evidence`, `ds_warm-lead-parser`, `ds_content-radar`. Комплект и связка — [discovery-system.ru](https://discovery-system.ru).
 
 ## Зачем методика
 

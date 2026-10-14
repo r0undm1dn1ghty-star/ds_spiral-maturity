@@ -1,5 +1,5 @@
 ---
-name: spiral-maturity
+name: ds_spiral-maturity
 description: "Зрелость организации для ИИ-агентов: 7 уровней × A0–A4."
 version: 2.2.0
 author: Victor
@@ -187,7 +187,7 @@ license: MIT
 
 ## Связанные
 
-- Репозиторий: [github.com/r0undm1dn1ghty-star/spiral-maturity](https://github.com/r0undm1dn1ghty-star/spiral-maturity) (MIT).
+- Репозиторий: [github.com/r0undm1dn1ghty-star/ds_spiral-maturity](https://github.com/r0undm1dn1ghty-star/spiral-maturity) (MIT).
 - Полная методика: `docs/methodology-ru.md` в репозитории.
 - Полевая карточка: `templates/field-card.md`.
 - История версий: `CHANGELOG.md`.

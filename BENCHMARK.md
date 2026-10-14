@@ -26,7 +26,7 @@
 
 ```bash
 git clone https://github.com/r0undm1dn1ghty-star/spiral-maturity
-cd spiral-maturity
+cd ds_spiral-maturity
 echo '{"процессы":"автономные агенты и оркестрация","метрики":"замеряем"}' \
   | python integrations/kit/skillkit.py --json
 ```

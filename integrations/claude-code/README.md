@@ -4,12 +4,12 @@
 
 1. Скопируйте `templates/field-card.md` и `docs/` в проект:
    ```bash
-   cp -r templates/ docs/ ваш_проект/spiral-maturity/
+   cp -r templates/ docs/ ваш_проект/ds_spiral-maturity/
    ```
 2. Добавьте в `CLAUDE.md` проекта:
    ```markdown
    ## Spiral Maturity
-   При оценке зрелости компании используй методику из `spiral-maturity/docs/methodology-ru.md`.
+   При оценке зрелости компании используй методику из `ds_spiral-maturity/docs/methodology-ru.md`.
    Заполняй `templates/field-card.md` на встрече. Уровень — гипотеза, не диагноз.
    ```
 3. Запустите Claude Code в папке проекта.
